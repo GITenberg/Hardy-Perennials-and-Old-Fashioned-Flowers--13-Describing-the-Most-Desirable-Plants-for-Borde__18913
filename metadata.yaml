@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8330'
     url: http://www.gutenberg.org/2009/agents/8330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18913#Hardy-Perennials-and-Old-Fashioned-Flowers--13-Describing-the-Most-Desirable-Plants-for-Borde_
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2006-07-26'
 gutenberg_type: Text
